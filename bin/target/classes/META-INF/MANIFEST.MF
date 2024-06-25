@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Class-Path: libs/mssql-jdbc-9.4.0.jre16.jar
+Main-Class: main.main
+Created-By: Maven Integration for Eclipse
+
